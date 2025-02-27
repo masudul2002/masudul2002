@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MASUDUL HASAN</h1>
+<h1 align="center">I'm MASUDUL HASAN</h1>
 <h3 align="center">❌মিথ্যা একটি রোগ এবং সত্যবাদিতা একটি নিরাময়‼️👋Lying is a disease and truthfullness is a cure.🌸☘️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudul2002&label=Profile%20views&color=0e75b6&style=flat" alt="masudul2002" /> </p>
