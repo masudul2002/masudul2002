@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudul2002&label=Profile%20views&color=0e75b6&style=flat" alt="masudul2002" /> </p>
 
-- 🔭 I’m currently working on **Sunamgonj Science and Technology University - Department of CSE**
+- 🔭 I’m currently studying on **Sunamgonj Science and Technology University - Department of CSE**
 
 - 🌱 I’m currently learning **HTML, CSS & C++**
 
