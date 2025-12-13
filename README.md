@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/masudul2002](https://github.com/masudul2002)
 
-- 📝 I regularly write articles on [https://sites.google.com/view/masudul2002](https://sites.google.com/view/masudul2002)
+- 📝 I regularly write articles on [https://masudul2002.github.io](https://masudul2002.github.io)
 
-- 📫 How to reach me **masudul.2002@gmail.com**
+- 📫 How to reach me **23240442@sstu.ac.bd**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/masudul2002](https://www.linkedin.com/in/masudul2002)
 
