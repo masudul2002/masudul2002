@@ -1,5 +1,5 @@
 <h1 align="center">I'm MASUDUL HASAN</h1>
-<h3 align="center">❌মিথ্যা একটি রোগ এবং সত্যবাদিতা একটি নিরাময়‼️👋Lying is a disease and truthfullness is a cure.🌸☘️</h3>
+<h3 align="center">❌মিথ্যা একটি রোগ এবং সত্যবাদিতা একটি নিরাময়‼️👋Lying is a disease and truthfulness is a cure.🌸☘️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudul2002&label=Profile%20views&color=0e75b6&style=flat" alt="masudul2002" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/masudul2002](https://github.com/masudul2002)
 
-- 📝 I regularly write articles on [https://masudul2002.github.io](https://masudul2002.github.io)
+- 📝 I regularly write articles on [https://www.masudulhasan.me](https://www.masudulhasan.me)
 
 - 📫 How to reach me **23240442@sstu.ac.bd**
 
